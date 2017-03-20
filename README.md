@@ -1,10 +1,6 @@
 ## App.net stuff
 
-Stuff related to the App.net, which ceased operations on 2017-03-16.
-
-## What was App.net?
-
-It was a social network.
+Stuff related to the App.net social network, which ceased operations on 2017-03-16.
 
 ## My related Wiki:
 
